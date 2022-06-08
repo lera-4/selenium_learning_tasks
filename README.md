@@ -1,2 +1,12 @@
-# selenium_learning_tasks
+# orangehrm_login.py
+Откройте страницу https://opensource-demo.orangehrmlive.com/ и напишите тест для логина в систему.
+
+# orangehrm_user_creation.py
+Напишите тест для создания пользователя
+
+# orangehrm_user_deleting.py
+Напишите тест для удаления пользователя из системы(созданного в предыдущем тесте)
+
+# saucedemo_cart_test.py
+Для сайта https://www.saucedemo.com/ напишите тест, в котором добавляется 3 товара в корзину и проверяется количество товаров в корзине
  
