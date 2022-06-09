@@ -10,3 +10,5 @@
 # saucedemo_cart_test.py
 Для сайта https://www.saucedemo.com/ напишите тест, в котором добавляется 3 товара в корзину и проверяется количество товаров в корзине
  
+# automationtesting_registration.py
+Для сайта http://demo.automationtesting.in/Register.html заполнить обязательные поля, а также Date of Birth, Password, Confirm Password, загрузить файл, проскролить вниз.
