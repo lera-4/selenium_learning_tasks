@@ -12,3 +12,9 @@
  
 # automationtesting_registration.py
 Для сайта http://demo.automationtesting.in/Register.html заполнить обязательные поля, а также Date of Birth, Password, Confirm Password, загрузить файл, проскролить вниз.
+
+# orangehrm_employee_card.py
+Практическое задание: элементы
+
+# automationtesting_alert.py
+Практическое задание: модальные окна
