@@ -18,3 +18,6 @@
 
 # automationtesting_alert.py
 Практическое задание: модальные окна
+
+# automationtesting_explicit_waits.py
+Практическое задание: явное ожидание
