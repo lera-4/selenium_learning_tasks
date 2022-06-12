@@ -21,3 +21,6 @@
 
 # automationtesting_explicit_waits.py
 Практическое задание: явное ожидание
+
+# automationtesting_implicit_waits.py
+Практическое задание: неявное ожидание
