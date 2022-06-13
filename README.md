@@ -24,3 +24,6 @@
 
 # automationtesting_implicit_waits.py
 Практическое задание: неявное ожидание
+
+# automationtesting_file_upload.py
+Загрузка файлов
